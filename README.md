@@ -1,3 +1,7 @@
+Custom code-line of Marlin 2.0.x which I've tweaked to run my Creality Ender 3D Pro which is fitted with a BLTouch v3 Bed Levelling sensor. For the most part I followed the excellent guide found on the /ender3 subreddit (https://www.reddit.com/r/ender3/comments/e894j7/marlin_20x_guide_for_ender_3_using_skr_mini_e3_v12/) to configure with a few small personal changes. It's pretty stable for the most part.
+
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
